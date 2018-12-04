@@ -7,7 +7,12 @@ AIDOCS
 Best practices
 ===============
 
+Feature Engineering
+--------------------
 
+* Use a fast subset of your data for feature engineering. When you feel comfy and confident you
+  can make the long-lasting calculation later. But do not try it in an interactive session.
+  However, the validation set should stay the same size.
 
 Training data
 -------------
